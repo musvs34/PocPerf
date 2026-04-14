@@ -1,0 +1,21 @@
+{
+  "test_name": "cpu_only",
+  "started_at": "2026-04-14T16:39:50",
+  "elapsed_s": 0.43251929990947247,
+  "sample_count": 2,
+  "avg_system_cpu_pct": 44.45,
+  "peak_system_cpu_pct": 88.9,
+  "avg_process_cpu_pct": 31.45,
+  "peak_process_cpu_pct": 62.9,
+  "avg_process_rss_gb": 0.10662841796875,
+  "peak_process_rss_gb": 0.108245849609375,
+  "min_available_memory_gb": 2.222980499267578,
+  "max_used_memory_pct": 71.8,
+  "system_disk_read_delta_mb": 4.71240234375,
+  "system_disk_write_delta_mb": 0.22412109375,
+  "cpu_matrix_size": 1200,
+  "cpu_repeats": 4,
+  "cpu_elapsed_s": 0.41003410005941987,
+  "cpu_gflops": 33.71426912541348,
+  "cpu_checksum": 1.432670034741022e+19
+}

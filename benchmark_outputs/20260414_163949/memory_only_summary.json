@@ -1,0 +1,21 @@
+{
+  "test_name": "memory_only",
+  "started_at": "2026-04-14T16:39:50",
+  "elapsed_s": 1.2517181998118758,
+  "sample_count": 4,
+  "avg_system_cpu_pct": 54.175000000000004,
+  "peak_system_cpu_pct": 78.1,
+  "avg_process_cpu_pct": 71.875,
+  "peak_process_cpu_pct": 103.1,
+  "avg_process_rss_gb": 0.2337331771850586,
+  "peak_process_rss_gb": 0.35874176025390625,
+  "min_available_memory_gb": 1.9845848083496094,
+  "max_used_memory_pct": 74.8,
+  "system_disk_read_delta_mb": 6.640625,
+  "system_disk_write_delta_mb": 0.2314453125,
+  "memory_array_gb": 0.25,
+  "memory_cycles": 6,
+  "memory_elapsed_s": 0.9699764996767044,
+  "memory_est_bandwidth_gb_s": 4.639287654391484,
+  "memory_checksum": 134971.06210004064
+}
