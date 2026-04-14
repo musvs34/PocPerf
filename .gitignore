@@ -1,1 +1,7 @@
 *.bin
+__pycache__/
+
+# Generated benchmark artifacts
+benchmark_outputs/
+combined_test_results.csv
+performance_results.csv
